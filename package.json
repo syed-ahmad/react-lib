@@ -1,0 +1,28 @@
+{
+  "name": "react-lib",
+  "version": "1.0.0",
+  "description": "React component library of reusable components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syed-ahmad/react-lib.git"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "library"
+  ],
+  "author": "Syed Ahmad <syed-ahmad@outlook.com> (https://ciconline.wordpress.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syed-ahmad/react-lib/issues"
+  },
+  "homepage": "https://github.com/syed-ahmad/react-lib#readme",
+  "devDependencies": {
+    "react": "^16.10.1",
+    "react-dom": "^16.10.1"
+  }
+}
