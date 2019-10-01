@@ -22,6 +22,10 @@
   },
   "homepage": "https://github.com/syed-ahmad/react-lib#readme",
   "devDependencies": {
+    "@babel/cli": "^7.6.2",
+    "@babel/core": "^7.6.2",
+    "@babel/preset-env": "^7.6.2",
+    "@babel/preset-react": "^7.0.0",
     "react": "^16.10.1",
     "react-dom": "^16.10.1"
   }
