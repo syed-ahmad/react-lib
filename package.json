@@ -1,5 +1,5 @@
 {
-  "name": "@syed/react-lib",
+  "name": "syed-react-lib",
   "version": "1.0.0",
   "description": "React component library of reusable components",
   "main": "dist/index.js",
