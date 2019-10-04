@@ -23,7 +23,8 @@
   },
   "homepage": "https://github.com/syed-ahmad/react-lib#readme",
   "peerDependencies": {
-    "react": "^16.10.1"
+    "react": "^16.10.1",
+    "react-dom": "^16.10.1"
   },
   "files": [
     "dist/*"
