@@ -1,6 +1,6 @@
 {
   "name": "syed-react-lib",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "React component library of reusable components",
   "main": "dist/index.js",
   "scripts": {
@@ -22,10 +22,6 @@
     "url": "https://github.com/syed-ahmad/react-lib/issues"
   },
   "homepage": "https://github.com/syed-ahmad/react-lib#readme",
-  "peerDependencies": {
-    "react": "^16.10.1",
-    "react-dom": "^16.10.1"
-  },
   "files": [
     "dist/*"
   ],
