@@ -1,6 +1,6 @@
 {
   "name": "syed-react-lib",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React component library of reusable components",
   "main": "dist/index.js",
   "scripts": {
@@ -29,6 +29,10 @@
   "files": [
     "dist/*"
   ],
+  "dependencies": {
+    "react": "^16.10.1",
+    "react-dom": "^16.10.1"
+  },
   "devDependencies": {
     "@babel/cli": "^7.6.2",
     "@babel/core": "^7.6.2",
