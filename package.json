@@ -1,6 +1,6 @@
 {
   "name": "syed-react-lib",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "React component library of reusable components",
   "main": "dist/index.js",
   "scripts": {
@@ -22,9 +22,7 @@
   },
   "homepage": "https://github.com/syed-ahmad/react-lib#readme",
   "files": [
-    "src/{css,js,scss}/*.{css,js,scss,map}",
-    "js/{src,dist}/**/*.{js,map}",
-    "scss/**/*.scss"
+    "dist/{components,css,scss}/**/*.{css,js,scss,map}"
   ],
   "dependencies": {},
   "devDependencies": {
