@@ -1,11 +1,10 @@
 {
   "name": "syed-react-lib",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "React component library of reusable components",
   "main": "dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "prepublishOnly": "babel ./src --out-dir ./dist -s inline"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -23,7 +22,9 @@
   },
   "homepage": "https://github.com/syed-ahmad/react-lib#readme",
   "files": [
-    "dist/*"
+    "dist/{css,js}/*.{css,js,map}",
+    "js/{src,dist}/**/*.{js,map}",
+    "scss/**/*.scss"
   ],
   "dependencies": {
     "react": "^16.10.1",
