@@ -1,6 +1,6 @@
 {
   "name": "syed-react-lib",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "React component library of reusable components",
   "main": "dist/index.js",
   "scripts": {
@@ -22,20 +22,17 @@
   },
   "homepage": "https://github.com/syed-ahmad/react-lib#readme",
   "files": [
-    "dist/{css,js}/*.{css,js,map}",
+    "src/{css,js,scss}/*.{css,js,scss,map}",
     "js/{src,dist}/**/*.{js,map}",
     "scss/**/*.scss"
   ],
-  "dependencies": {
-    "react": "^16.10.1",
-    "react-dom": "^16.10.1"
-  },
+  "dependencies": {},
   "devDependencies": {
-    "@babel/cli": "^7.6.2",
-    "@babel/core": "^7.6.2",
-    "@babel/preset-env": "^7.6.2",
-    "@babel/preset-react": "^7.0.0",
-    "react": "^16.10.1",
-    "react-dom": "^16.10.1"
+    "@babel/cli": "^7.6.4",
+    "@babel/core": "^7.6.4",
+    "@babel/preset-env": "^7.6.3",
+    "@babel/preset-react": "^7.6.3",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
   }
 }
